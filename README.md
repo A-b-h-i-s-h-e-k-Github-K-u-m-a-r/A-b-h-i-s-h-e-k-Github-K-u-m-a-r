@@ -1,5 +1,5 @@
-### Hi there 👋 ⚡ Working Hard to overcome the hardness of life.
-
+### Hi there 👋 ⚡ 
+I'm a data scientist.
 <!--
 **A-b-h-i-s-h-e-k-Github-K-u-m-a-r/A-b-h-i-s-h-e-k-Github-K-u-m-a-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
